@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on C# project for my Uni<br><br>- 🌱 I’m currently learning at University of Gdańsk<br><br>- 👯 I’m looking to collaborate on Python projects<br><br>- 💬 Ask me about group projects or C#<br><br>- ⚡ Fun fact I love working with people
+- 🔭 I’m currently working on C# project for my Uni<br><br>- 🌱 I’m currently studying at University of Gdańsk<br><br>- 👯 I’m looking to collaborate on Python projects<br><br>- 💬 Ask me about group projects or C#<br><br>- ⚡ Fun fact I love working with people
 
 
 ## 🌐 Socials:
