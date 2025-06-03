@@ -1,6 +1,27 @@
-# 💫 About Me:
-- 🔭 I’m currently working on C# project for my Uni<br><br>- 🌱 I’m currently studying at University of Gdańsk<br><br>- 👯 I’m looking to collaborate on C# projects<br><br>- 💬 Ask me about group projects or C#<br><br>- ⚡ Fun fact I love working with people
+# Witaj na moim profilu GitHub! 👋
 
+Jestem studentem Data Science na Uniwersytecie Gdańskim, pasjonatem analizy danych i programowania. 
+
+## 🛠 Technologie i narzędzia
+- **Języki programowania**: Python, C#, SQL
+- **Data Science**: Pandas, NumPy
+- **Bazy danych**: SQL Server, MySQL
+- **Inne**: Git, Docker, Jupyter Notebook
+
+## 📚 Aktualnie się uczę
+- Zaawansowanych technik uczenia maszynowego
+- Big Data (Apache Spark, Hadoop)
+- Cloud computing (AWS/GCP podstawy)
+
+## 🌱 Moje projekty
+Tutaj znajdziesz moje projekty związane z:
+- Analizą danych
+- Machine Learning/Deep Learning
+- Skryptami SQL do przetwarzania danych
+
+
+
+"Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/damsdotcom/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dami.siuta@gmail.com) 
