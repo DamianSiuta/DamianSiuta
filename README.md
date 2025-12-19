@@ -1,39 +1,48 @@
-# Witaj na moim profilu GitHub! 👋
+Hi there, I'm Damian! 👋
 
-Jestem studentem Data Science na Uniwersytecie Gdańskim, pasjonatem analizy danych i programowania. 
+Data Engineer & Process Automation Enthusiast
 
-## 🛠 Technologie i narzędzia
-- **Języki programowania**: Python, C#, SQL
-- **Data Science**: Pandas, NumPy
-- **Bazy danych**: SQL Server, MySQL
-- **Inne**: Git, Docker, Jupyter Notebook
+I bridge the gap between Business Logic and Hard Tech. Currently optimizing industrial processes at Siemens, and building open-source tools for the AI community after hours.
 
-## 📚 Aktualnie się uczę
-- Zaawansowanych technik uczenia maszynowego
-- Big Data (Apache Spark, Hadoop)
-- Cloud computing (AWS/GCP podstawy)
+My focus is on Efficiency, Data Quality, and Local-First AI infrastructure.
 
-## 🌱 Moje projekty
-Tutaj znajdziesz moje projekty związane z:
-- Analizą danych
-- Machine Learning/Deep Learning
-- Skryptami SQL do przetwarzania danych
+🚀 Featured Project: EntropyGuard
 
+Stop feeding your RAG pipelines with garbage.
 
+I engineered an open-source ETL engine to solve the problem of "Dirty Data" in Large Language Models.
 
-"Data is a precious thing and will last longer than the systems themselves." - Tim Berners-Lee
+The Problem: Semantic duplicates and noise cause LLM hallucinations and bloat Vector DB costs.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/damsdotcom/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dami.siuta@gmail.com) 
+The Solution: A privacy-first, local engine that deduplicates data by meaning (vectors), not just text.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DamianSiuta&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DamianSiuta&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DamianSiuta&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Performance: Reduced a 10k dataset to 50 unique signals in <2 mins on a laptop CPU.
 
----
-[![](https://visitcount.itsvg.in/api?id=DamianSiuta&icon=0&color=11)](https://visitcount.itsvg.in)
+🛠️ Tech Stack: Python Polars FAISS Docker Poetry
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🛠️ Technical Toolbox
+
+Core & Backend
+
+Data Engineering & AI
+
+Workflow & Quality
+
+📊 GitHub Stats
+
+<p align="left">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDamianSiuta%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Damian's GitHub Stats" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDamianSiuta%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Languages" />
+</p>
+
+📫 Let's Connect
+
+I am always open to discussing Data Engineering, Process Optimization, and Open Source.
+
+LinkedIn (https://www.linkedin.com/in/damian-siuta-syncops/)
+
+EntropyGuard Repo (https://github.com/DamianSiuta/entropyguard)
+
+<!--
+DamianSiuta/DamianSiuta is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+-->
