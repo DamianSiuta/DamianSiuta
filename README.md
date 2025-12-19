@@ -28,7 +28,7 @@ Data Engineering & AI
 
 Workflow & Quality
 
-📊 GitHub Stats
+
 
 📫 Let's Connect
 
