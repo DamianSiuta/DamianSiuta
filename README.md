@@ -30,11 +30,6 @@ Workflow & Quality
 
 📊 GitHub Stats
 
-<p align="left">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DDamianSiuta%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26count_private%3Dtrue" alt="Damian's GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DDamianSiuta%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue" alt="Top Languages" />
-</p>
-
 📫 Let's Connect
 
 I am always open to discussing Data Engineering, Process Optimization, and Open Source.
